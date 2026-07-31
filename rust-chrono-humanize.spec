@@ -5,8 +5,8 @@
 %global crate chrono-humanize
 
 Name:           rust-%{crate}
-Version:        0.0.11
-Release:        5%{?dist}
+Version:        0.2.3
+Release:        1%{?dist}
 Summary:        Human-friendly time expressions
 
 # Upstream license specification: MIT/Apache-2.0
